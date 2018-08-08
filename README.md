@@ -1,6 +1,6 @@
 # base_internationalizing
 
-A new Flutter project.
+Base Flutter project supporting 2 languages (Arabic & English) with option to set the default language regadless of the device language.
 
 ## Getting Started
 
